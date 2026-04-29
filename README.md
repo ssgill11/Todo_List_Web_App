@@ -34,8 +34,7 @@ This app allows users to add, delete, and manage daily tasks efficiently with a 
 
 
 ## 📸 Preview
-
-<img width="406" height="477" alt="todo-list" src="https://github.com/user-attachments/assets/3acd220b-6b87-46a0-b638-24b2bac6a073" />
+<img width="891" height="896" alt="todo-list" src="https://github.com/user-attachments/assets/dacce94a-a637-44cc-ae29-8a22872e213e" />
 
 ---
 
