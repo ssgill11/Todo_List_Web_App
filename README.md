@@ -40,7 +40,7 @@ This app allows users to add, delete, and manage daily tasks efficiently with a 
 
 ## 📸 Live Demo
 
-https://github.com/ssgill11/CALCULATOR.git
+https://github.com/ssgill11/Todo_List_Web_App.git
 
 ---
 
