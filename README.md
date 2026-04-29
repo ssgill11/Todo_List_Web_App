@@ -26,10 +26,12 @@ This app allows users to add, delete, and manage daily tasks efficiently with a 
 
 ## 🛠️ Technologies Used/Tech Stack
 
-* HTML5 – Structure of the app
-* CSS3 – Styling and layout
-* JavaScript (ES6) – Functionality and logic
-* LocalStorage API – Saving tasks in browser
+* HTML5 ((Semantic Markup) -> Structure of the app)
+* CSS3 ((Flexbox, Grid, Responsive Design) -> Styling & Layout)
+* JavaScript ((ES6+) -> logic and interactivity)
+* LocalStorage API –> (Saving tasks in browser)
+
+
 
 ## 📸 Preview
 
