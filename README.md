@@ -1,4 +1,4 @@
-# 📝 Todo List Web App(HTML, CSS & JavaScript)
+# 📝 Todo-List Web App(HTML, CSS & JavaScript)
 
 ![HTML](https://img.shields.io/badge/HTML5-Structure-orange)
 ![CSS](https://img.shields.io/badge/CSS3-Styling-blue)
