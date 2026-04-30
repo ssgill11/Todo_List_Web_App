@@ -31,7 +31,7 @@ This app allows users to add, delete, and manage daily tasks efficiently with a 
 * JavaScript ((ES6+) -> logic and interactivity)
 * LocalStorage API –> (Saving tasks in browser)
 
-
+---
 
 ## 📸 Preview
 <img width="891" height="896" alt="todo-list" src="https://github.com/user-attachments/assets/dacce94a-a637-44cc-ae29-8a22872e213e" />
